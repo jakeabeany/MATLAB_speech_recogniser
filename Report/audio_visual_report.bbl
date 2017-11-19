@@ -1,0 +1,19 @@
+\begin{thebibliography}{}
+
+\bibitem[Eddy, 1996]{eddy1996hidden}
+Eddy, S.~R. (1996).
+\newblock Hidden markov models.
+\newblock {\em Current opinion in structural biology}, 6(3):361--365.
+
+\bibitem[Kwong and He, 2001]{framelength}
+Kwong, S. and He, Q. (2001).
+\newblock {\em The Use of Adaptive Frame for Speech Recognition}.
+\newblock Hindawi Publishing Corporation.
+
+\bibitem[Practical-Cryptography, 2013]{melpic}
+Practical-Cryptography (2013).
+\newblock Mel frequency cepstral coefficient (mfcc) tutorial.
+\newblock
+  http://practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/.
+
+\end{thebibliography}

@@ -1,0 +1,23 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Speech Collection and Annotation Methodology}{}% 2
+\BOOKMARK [1][-]{section.3}{MFCC Feature Extraction}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Block into frames}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Pre emphasis}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{Hamming window}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.4}{Spectral analysis}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.5}{Filterbanks}{section.3}% 8
+\BOOKMARK [3][-]{subsubsection.3.5.1}{Linear}{subsection.3.5}% 9
+\BOOKMARK [3][-]{subsubsection.3.5.2}{Mel-scale}{subsection.3.5}% 10
+\BOOKMARK [2][-]{subsection.3.6}{Log, DCT, and truncation}{section.3}% 11
+\BOOKMARK [1][-]{section.4}{Acoustic Modelling}{}% 12
+\BOOKMARK [1][-]{section.5}{Noise Compensation}{}% 13
+\BOOKMARK [1][-]{section.6}{Evaluation}{}% 14
+\BOOKMARK [2][-]{subsection.6.1}{Final System}{section.6}% 15
+\BOOKMARK [2][-]{subsection.6.2}{Noise}{section.6}% 16
+\BOOKMARK [2][-]{subsection.6.3}{Filter Banks}{section.6}% 17
+\BOOKMARK [2][-]{subsection.6.4}{Truncation}{section.6}% 18
+\BOOKMARK [2][-]{subsection.6.5}{Pre Emphasis}{section.6}% 19
+\BOOKMARK [2][-]{subsection.6.6}{Speech Frames}{section.6}% 20
+\BOOKMARK [2][-]{subsection.6.7}{Hidden Markov Models}{section.6}% 21
+\BOOKMARK [2][-]{subsection.6.8}{Improvements}{section.6}% 22
+\BOOKMARK [1][-]{section*.13}{References}{}% 23

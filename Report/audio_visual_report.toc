@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {I}Introduction}{1}
+\contentsline {section}{\numberline {II}Speech Collection and Annotation Methodology}{1}
+\contentsline {section}{\numberline {III}MFCC Feature Extraction}{1}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {III-A}}Block into frames}{2}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {III-B}}Pre emphasis}{2}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {III-C}}Hamming window}{2}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {III-D}}Spectral analysis}{2}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {III-E}}Filterbanks}{2}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {III-E}1}Linear}{2}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {III-E}2}Mel-scale}{2}
+\contentsline {section}{\numberline {IV}Acoustic Modelling}{3}
+\contentsline {section}{\numberline {V}Noise Compensation}{3}
+\contentsline {section}{\numberline {VI}Evaluation}{3}
+\contentsline {section}{References}{3}

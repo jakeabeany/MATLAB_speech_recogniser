@@ -1,0 +1,518 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.2)  19 NOV 2017 18:48
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./audio_visual_report.tex
+(./audio_visual_report.tex
+LaTeX2e <2017-04-15>
+Babel <3.13> and hyphenation patterns for 84 language(s) loaded.
+(./IEEEtran.cls
+Document Class: IEEEtran 2012/11/21 V1.8c by Harald Hanche-Olsen and Anders Chr
+istensen
+-- Based on V1.7a by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 373.
+
+(c:/texlive/2017/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen104
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen105
+\CLASSINFOnormalsizeunitybaselineskip=\dimen106
+\IEEEnormaljot=\dimen107
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+\IEEEilabelindentA=\dimen108
+\IEEEilabelindentB=\dimen109
+\IEEEilabelindent=\dimen110
+\IEEEelabelindent=\dimen111
+\IEEEdlabelindent=\dimen112
+\IEEElabelindent=\dimen113
+\IEEEiednormlabelsep=\dimen114
+\IEEEiedmathlabelsep=\dimen115
+\IEEEiedtopsep=\skip41
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@IEEEsubequation=\count85
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count86
+\c@table=\count87
+\@IEEEeqnnumcols=\count88
+\@IEEEeqncolcnt=\count89
+\@IEEEtmpitemindent=\dimen116
+\c@IEEEbiography=\count90
+\@IEEEtranrubishbin=\box26
+) (c:/texlive/2017/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen117
+\WF@size=\dimen118
+\c@WF@wrappedlines=\count91
+\WF@box=\box27
+\WF@everypar=\toks15
+Package: wrapfig 2003/01/31  v 3.6
+)
+(c:/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(c:/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(c:/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/06/24 v1.0g Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen119
+\Gin@req@width=\dimen120
+)
+(c:/texlive/2017/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(c:/texlive/2017/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen121
+\captionmargin@=\dimen122
+\captionwidth=\dimen123
+\caption@tempdima=\dimen124
+\caption@indent=\dimen125
+\caption@parindent=\dimen126
+\caption@hangindent=\dimen127
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->\ifx \@captype \@IEEEta
+blestring \footnotesize {\centering \normalfont \footnotesize #1.\qquad \scshap
+e #2\par }\@IEEEtablecaptionsepspace \else \@IEEEfigurecaptionsepspace \setbox 
+\@tempboxa \hbox {\normalfont \footnotesize {#1.}~~ #2}\ifdim \wd \@tempboxa >\
+hsize \setbox \@tempboxa \hbox {\normalfont \footnotesize {#1.}~~ }\parbox [t]{
+\hsize }{\normalfont \footnotesize \noindent \unhbox \@tempboxa #2}\else \ifCLA
+SSOPTIONconference \hbox to\hsize {\normalfont \footnotesize \box \@tempboxa \h
+fil }\else \hbox to\hsize {\normalfont \footnotesize \box \@tempboxa \hfil }\fi
+ \fi \fi .
+\c@ContinuedFloat=\count92
+Package caption Info: wrapfig package is loaded.
+) (c:/texlive/2017/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count93
+\lst@gtempboxa=\box28
+\lst@token=\toks17
+\lst@length=\count94
+\lst@currlwidth=\dimen128
+\lst@column=\count95
+\lst@pos=\count96
+\lst@lostspace=\dimen129
+\lst@width=\dimen130
+\lst@newlines=\count97
+\lst@lineno=\count98
+\lst@maxwidth=\dimen131
+
+(c:/texlive/2017/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count99
+\lst@skipnumbers=\count100
+\lst@framebox=\box29
+)
+(c:/texlive/2017/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(c:/texlive/2017/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count101
+\float@exts=\toks18
+\float@box=\box30
+\@float@everytoks=\toks19
+\@floatcapt=\box31
+)
+(./audio_visual_report.aux)
+\openout1 = `audio_visual_report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+
+(c:/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count102
+\scratchdimen=\dimen132
+\scratchbox=\box32
+\nofMPsegments=\count103
+\nofMParguments=\count104
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count105
+\MPscratchDim=\dimen133
+\MPnumerator=\count106
+\makeMPintoPDFobject=\count107
+\everyMPtoPDFconversion=\toks21
+) (c:/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(c:/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(c:/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(c:/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count108
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 35.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 35.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 35.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 35.
+<images/sfs_example.jpg, id=1, 963.6pt x 434.62375pt>
+File: images/sfs_example.jpg Graphic file (type jpg)
+<use images/sfs_example.jpg>
+Package pdftex.def Info: images/sfs_example.jpg  used on input line 49. on inpu
+t line 49.
+Package pdftex.def Info: Requested size: 481.79883pt x 217.31134pt on input lin
+e 49.
+ [1{c:/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+ <./images/sfs_example.jpg>]
+Underfull \hbox (badness 6001) in paragraph at lines 58--59
+[]\OT1/ptm/m/n/10 The first step in fea-ture ex-trac-tion was to block
+ []
+
+<images/pre_both.jpg, id=10, 1051.67906pt x 539.76656pt>
+File: images/pre_both.jpg Graphic file (type jpg)
+<use images/pre_both.jpg>
+Package pdftex.def Info: images/pre_both.jpg  used on input line 66. on input l
+ine 66.
+Package pdftex.def Info: Requested size: 262.04987pt x 134.49655pt on input lin
+e 66.
+
+Overfull \hbox (9.0pt too wide) in paragraph at lines 66--66
+ [][] 
+ []
+
+<images/hamming.jpg, id=11, 432.86719pt x 321.45094pt>
+File: images/hamming.jpg Graphic file (type jpg)
+<use images/hamming.jpg>
+Package pdftex.def Info: images/hamming.jpg  used on input line 76. on input li
+ne 76.
+Package pdftex.def Info: Requested size: 209.63669pt x 155.67789pt on input lin
+e 76.
+<images/specanal.jpg, id=12, 482.55281pt x 249.93375pt>
+File: images/specanal.jpg Graphic file (type jpg)
+<use images/specanal.jpg>
+Package pdftex.def Info: images/specanal.jpg  used on input line 88. on input l
+ine 88.
+Package pdftex.def Info: Requested size: 209.63669pt x 108.5792pt on input line
+ 88.
+LaTeX Font Info:    Try loading font information for OT1+courier on input line 
+92.
+LaTeX Font Info:    No file OT1courier.fd. on input line 92.
+
+LaTeX Font Warning: Font shape `OT1/courier/m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead on input line 92.
+
+[2 <./images/pre_both.jpg> <./images/hamming.jpg> <./images/specanal.jpg>]
+<images/magSpecExample.jpg, id=18, 956.82469pt x 419.31656pt>
+File: images/magSpecExample.jpg Graphic file (type jpg)
+<use images/magSpecExample.jpg>
+Package pdftex.def Info: images/magSpecExample.jpg  used on input line 101. on 
+input line 101.
+Package pdftex.def Info: Requested size: 209.63669pt x 91.86603pt on input line
+ 101.
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+
+ []
+
+<images/mel.jpg, id=19, 808.52063pt x 359.09157pt>
+File: images/mel.jpg Graphic file (type jpg)
+<use images/mel.jpg>
+Package pdftex.def Info: images/mel.jpg  used on input line 121. on input line 
+121.
+Package pdftex.def Info: Requested size: 209.63669pt x 93.10406pt on input line
+ 121.
+[3 <./images/magSpecExample.jpg> <./images/mel.jpg>]
+<images/hmm_example.jpg, id=25, 548.0475pt x 410.53375pt>
+File: images/hmm_example.jpg Graphic file (type jpg)
+<use images/hmm_example.jpg>
+Package pdftex.def Info: images/hmm_example.jpg  used on input line 143. on inp
+ut line 143.
+Package pdftex.def Info: Requested size: 209.63669pt x 157.03804pt on input lin
+e 143.
+<images/noise_effect.jpg, id=26, 866.48718pt x 462.97969pt>
+File: images/noise_effect.jpg Graphic file (type jpg)
+<use images/noise_effect.jpg>
+Package pdftex.def Info: images/noise_effect.jpg  used on input line 156. on in
+put line 156.
+Package pdftex.def Info: Requested size: 262.04987pt x 140.01822pt on input lin
+e 156.
+
+Overfull \hbox (9.0pt too wide) in paragraph at lines 156--156
+ [][] 
+ []
+
+<images/eval_pre.jpg, id=27, 726.46407pt x 338.76563pt>
+File: images/eval_pre.jpg Graphic file (type jpg)
+<use images/eval_pre.jpg>
+Package pdftex.def Info: images/eval_pre.jpg  used on input line 183. on input 
+line 183.
+Package pdftex.def Info: Requested size: 262.04987pt x 122.19847pt on input lin
+e 183.
+
+Overfull \hbox (9.0pt too wide) in paragraph at lines 183--183
+ [][] 
+ []
+
+[4 <./images/hmm_example.jpg> <./images/noise_effect.jpg>]
+<images/eval_pre_nonoise.jpg, id=31, 730.98094pt x 335.75438pt>
+File: images/eval_pre_nonoise.jpg Graphic file (type jpg)
+<use images/eval_pre_nonoise.jpg>
+Package pdftex.def Info: images/eval_pre_nonoise.jpg  used on input line 192. o
+n input line 192.
+Package pdftex.def Info: Requested size: 262.04987pt x 120.36429pt on input lin
+e 192.
+
+Overfull \hbox (9.0pt too wide) in paragraph at lines 192--192
+ [][] 
+ []
+
+
+Underfull \hbox (badness 4819) in paragraph at lines 197--199
+[]\OT1/ptm/m/n/10 As men-tioned in the eval-u-a-tion in-tro-duc-tion, a 32
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--199
+
+ []
+
+<images/eval_filterbanks.jpg, id=32, 715.92468pt x 362.85562pt>
+File: images/eval_filterbanks.jpg Graphic file (type jpg)
+<use images/eval_filterbanks.jpg>
+Package pdftex.def Info: images/eval_filterbanks.jpg  used on input line 203. o
+n input line 203.
+Package pdftex.def Info: Requested size: 262.04987pt x 132.81493pt on input lin
+e 203.
+
+Overfull \hbox (9.0pt too wide) in paragraph at lines 203--203
+ [][] 
+ []
+
+<images/eval_filterbanks_zoom.jpg, id=33, 711.4078pt x 348.55219pt>
+File: images/eval_filterbanks_zoom.jpg Graphic file (type jpg)
+<use images/eval_filterbanks_zoom.jpg>
+Package pdftex.def Info: images/eval_filterbanks_zoom.jpg  used on input line 2
+14. on input line 214.
+Package pdftex.def Info: Requested size: 262.04987pt x 128.3932pt on input line
+ 214.
+
+Overfull \hbox (9.0pt too wide) in paragraph at lines 214--214
+ [][] 
+ []
+
+[5 <./images/eval_pre.jpg> <./images/eval_pre_nonoise.jpg> <./images/eval_filte
+rbanks.jpg> <./images/eval_filterbanks_zoom.jpg>]
+
+LaTeX Warning: Reference `ldt' on page 6 undefined on input line 221.
+
+<images/eval_truncation.jpg, id=37, 714.41907pt x 314.67563pt>
+File: images/eval_truncation.jpg Graphic file (type jpg)
+<use images/eval_truncation.jpg>
+Package pdftex.def Info: images/eval_truncation.jpg  used on input line 233. on
+ input line 233.
+Package pdftex.def Info: Requested size: 262.04987pt x 115.42462pt on input lin
+e 233.
+
+Overfull \hbox (9.0pt too wide) in paragraph at lines 233--233
+ [][] 
+ []
+
+<images/eval_hmm.jpg, id=38, 818.30719pt x 435.12563pt>
+File: images/eval_hmm.jpg Graphic file (type jpg)
+<use images/eval_hmm.jpg>
+Package pdftex.def Info: images/eval_hmm.jpg  used on input line 245. on input 
+line 245.
+Package pdftex.def Info: Requested size: 262.04987pt x 139.34264pt on input lin
+e 245.
+
+Overfull \hbox (9.0pt too wide) in paragraph at lines 245--245
+ [][] 
+ []
+
+[6 <./images/eval_truncation.jpg> <./images/eval_hmm.jpg>]
+(./audio_visual_report.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 14--18
+[]\OT1/ptm/m/n/8 Practical-Cryptography (2013).
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--18
+\OT1/ptm/m/n/8 Mel fre-quency cep-stral co-ef-fi-cient (mfcc) tu-to-rial.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--18
+\OT1/ptm/m/n/8 http://practicalcryptography.com/miscellaneous/machine-learning/
+guide-
+ []
+
+) [7
+
+] (./audio_visual_report.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4567 strings out of 492990
+ 73987 string characters out of 6136334
+ 137415 words of memory out of 5000000
+ 8076 multiletter control sequences out of 15000+600000
+ 40814 words of font info for 74 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,8n,39p,1062b,282s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2017/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2017/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/
+urw/times/utmb8a.pfb><c:/texlive/2017/texmf-dist/fonts/type1/urw/times/utmbi8a.
+pfb><c:/texlive/2017/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/20
+17/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on audio_visual_report.pdf (7 pages, 897905 bytes).
+PDF statistics:
+ 69 PDF objects out of 1000 (max. 8388607)
+ 38 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+
